@@ -5,20 +5,21 @@
   <img alt="AIOR" src="https://aior.com/aior-theme/icons/aior-logo.png" width="200">
 </picture>
 
-# AIOR — Yönetim Hesabı / Admin
+# AIOR — Admin Account
 
 **Engineering · Software · Design · Manufacturing · AI**
 
 </div>
 
-Bu hesap, **AIOR Teknoloji Limited Şirketi**'nin yönetim (admin) hesabıdır.
-Üretim, deploy ve kurumsal işlemler buradan yönetilir.
+Admin account for **[AIOR Teknoloji Limited Şirketi](https://aior.com)**.
+Production deploy authority (Pilot seat), enterprise operations, and critical
+infrastructure changes are managed from this account.
 
-### 🏢 Şirket / çalışmalarımız
-➡️ **Organizasyon:** [github.com/aiorcom](https://github.com/aiorcom)
-🌐 **Web:** [aior.com](https://aior.com)  ·  ✉️ hi@aior.com  ·  📍 Bursa, Türkiye
+### 🏢 Company & open work
+➡️ **Organization:** [github.com/aiorcom](https://github.com/aiorcom)  
+🌐 [aior.com](https://aior.com) · ✉️ hi@aior.com · 📍 Bursa, Türkiye
 
-> Ürünlerimiz, hizmetlerimiz ve açık çalışmalarımız için **organizasyon profilimizi**
-> ziyaret edin: [github.com/aiorcom](https://github.com/aiorcom)
+> Products, services, and public engineering highlights live on our
+> **organization profile:** [github.com/aiorcom](https://github.com/aiorcom)
 
 <sub>© AIOR Teknoloji Limited Şirketi — Field-tested engineering · 2009 → today</sub>
